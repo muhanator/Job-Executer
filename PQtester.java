@@ -1,5 +1,4 @@
 // Unsorted Priority Queue and Array List based heap Priority Queue
-// By: Muhammad Saad Mujtaba (ID: 40043156) and Jimmy Lau (ID: 40044187)
 
 import java.util.concurrent.ThreadLocalRandom;
 
